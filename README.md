@@ -11,6 +11,6 @@ Link: _https://github.com/anujvyas/Machine-Learning-Projects/tree/master/Diabete
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
-• Snapshot of Web App:
+• A glimpse of the web app:
 
- ![image](readme_resources/diabetes-web-app.png)
+ ![GIF](readme_resources/diabetes-predictor-web-app.gif)

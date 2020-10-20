@@ -1,0 +1,3 @@
+The accuracy of the model increases when you drop the column named Pregnancies. 
+As Pregnancies is  related to only FEMALE category and its also not logical to use this feature ffor making this app.
+What do you say
